@@ -1,2 +1,2 @@
 # prueba02
-reademe
+readme
